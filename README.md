@@ -96,7 +96,7 @@ These NASA pages provide useful background on the environments and technologies 
 
 ## AI assistance
 
-OpenAI's ChatGPT assisted with development, debugging, interface refinement, gameplay ideas, educational writing, and project documentation. The creators directed the work, specified requirements, evaluated outputs, and refined the final game.
+OpenAI's ChatGPT assisted with development, debugging, educational writing, interface refinement and project documentation. The creators directed the work, specified requirements, gameplay ideas, evaluated outputs, and refined the final game.
 
 ## Future possibilities
 
